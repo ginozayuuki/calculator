@@ -1,0 +1,16 @@
+input{
+    width: 250px;
+    height: 60px;
+    margin: 3px;
+}
+.buttons{
+    width: 280px;
+    height: 320px;
+}
+.button{
+    width: 20%;
+    margin:3px;
+    height:20%;
+    box-sizing: border-box;
+}
+
